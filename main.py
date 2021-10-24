@@ -1,3 +1,4 @@
+print("Morf Abuzer")
+print("dead inside")
 print("Hello world!!!")
-print("24")
-print("3")
+
